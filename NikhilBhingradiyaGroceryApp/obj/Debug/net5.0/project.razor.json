@@ -1,5 +1,5 @@
 {
-  "FilePath": "d:\\sem 2\\Asp.net\\Nikhil_Bhingradiya_WEB315Assignment\\NikhilBhingradiyaGroceryApp\\NikhilBhingradiyaGroceryApp.csproj",
+  "FilePath": "d:\\sem 2\\Asp.net\\Nikhil_Bhingradiya_WEB315Assignments\\NikhilBhingradiyaGroceryApp\\NikhilBhingradiyaGroceryApp.csproj",
   "Configuration": {
     "ConfigurationName": "MVC-3.0",
     "LanguageVersion": "5.0",
@@ -11,6 +11,72 @@
   },
   "ProjectWorkspaceState": {
     "TagHelpers": [
+      {
+        "HashCode": -934565650,
+        "Kind": "Components.Component",
+        "Name": "NikhilBhingradiyaGroceryApp.Pages.Pagetitle",
+        "AssemblyName": "NikhilBhingradiyaGroceryApp",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "Pagetitle"
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "NikhilBhingradiyaGroceryApp.Pages.Pagetitle"
+        }
+      },
+      {
+        "HashCode": -219608313,
+        "Kind": "Components.Component",
+        "Name": "NikhilBhingradiyaGroceryApp.Pages.Pagetitle",
+        "AssemblyName": "NikhilBhingradiyaGroceryApp",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "NikhilBhingradiyaGroceryApp.Pages.Pagetitle"
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "NikhilBhingradiyaGroceryApp.Pages.Pagetitle",
+          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
+        }
+      },
+      {
+        "HashCode": -520549000,
+        "Kind": "Components.Component",
+        "Name": "NikhilBhingradiyaGroceryApp.Pages.GroceryStore",
+        "AssemblyName": "NikhilBhingradiyaGroceryApp",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "GroceryStore"
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "NikhilBhingradiyaGroceryApp.Pages.GroceryStore"
+        }
+      },
+      {
+        "HashCode": -1573973656,
+        "Kind": "Components.Component",
+        "Name": "NikhilBhingradiyaGroceryApp.Pages.GroceryStore",
+        "AssemblyName": "NikhilBhingradiyaGroceryApp",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "NikhilBhingradiyaGroceryApp.Pages.GroceryStore"
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "NikhilBhingradiyaGroceryApp.Pages.GroceryStore",
+          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
+        }
+      },
       {
         "HashCode": -299098923,
         "Kind": "Components.Component",
@@ -111,125 +177,6 @@
         }
       },
       {
-        "HashCode": -934565650,
-        "Kind": "Components.Component",
-        "Name": "NikhilBhingradiyaGroceryApp.Pages.Pagetitle",
-        "AssemblyName": "NikhilBhingradiyaGroceryApp",
-        "CaseSensitive": true,
-        "TagMatchingRules": [
-          {
-            "TagName": "Pagetitle"
-          }
-        ],
-        "Metadata": {
-          "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "NikhilBhingradiyaGroceryApp.Pages.Pagetitle"
-        }
-      },
-      {
-        "HashCode": -219608313,
-        "Kind": "Components.Component",
-        "Name": "NikhilBhingradiyaGroceryApp.Pages.Pagetitle",
-        "AssemblyName": "NikhilBhingradiyaGroceryApp",
-        "CaseSensitive": true,
-        "TagMatchingRules": [
-          {
-            "TagName": "NikhilBhingradiyaGroceryApp.Pages.Pagetitle"
-          }
-        ],
-        "Metadata": {
-          "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "NikhilBhingradiyaGroceryApp.Pages.Pagetitle",
-          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
-        }
-      },
-      {
-        "HashCode": -1577548958,
-        "Kind": "Components.Component",
-        "Name": "NikhilBhingradiyaGroceryApp.App",
-        "AssemblyName": "NikhilBhingradiyaGroceryApp",
-        "CaseSensitive": true,
-        "TagMatchingRules": [
-          {
-            "TagName": "App"
-          }
-        ],
-        "Metadata": {
-          "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "NikhilBhingradiyaGroceryApp.App"
-        }
-      },
-      {
-        "HashCode": 360900679,
-        "Kind": "Components.Component",
-        "Name": "NikhilBhingradiyaGroceryApp.App",
-        "AssemblyName": "NikhilBhingradiyaGroceryApp",
-        "CaseSensitive": true,
-        "TagMatchingRules": [
-          {
-            "TagName": "NikhilBhingradiyaGroceryApp.App"
-          }
-        ],
-        "Metadata": {
-          "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "NikhilBhingradiyaGroceryApp.App",
-          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
-        }
-      },
-      {
-        "HashCode": 1914098019,
-        "Kind": "Components.Component",
-        "Name": "NikhilBhingradiyaGroceryApp.Shared.SurveyPrompt",
-        "AssemblyName": "NikhilBhingradiyaGroceryApp",
-        "CaseSensitive": true,
-        "TagMatchingRules": [
-          {
-            "TagName": "SurveyPrompt"
-          }
-        ],
-        "BoundAttributes": [
-          {
-            "Kind": "Components.Component",
-            "Name": "Title",
-            "TypeName": "System.String",
-            "Metadata": {
-              "Common.PropertyName": "Title"
-            }
-          }
-        ],
-        "Metadata": {
-          "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "NikhilBhingradiyaGroceryApp.Shared.SurveyPrompt"
-        }
-      },
-      {
-        "HashCode": 2074389173,
-        "Kind": "Components.Component",
-        "Name": "NikhilBhingradiyaGroceryApp.Shared.SurveyPrompt",
-        "AssemblyName": "NikhilBhingradiyaGroceryApp",
-        "CaseSensitive": true,
-        "TagMatchingRules": [
-          {
-            "TagName": "NikhilBhingradiyaGroceryApp.Shared.SurveyPrompt"
-          }
-        ],
-        "BoundAttributes": [
-          {
-            "Kind": "Components.Component",
-            "Name": "Title",
-            "TypeName": "System.String",
-            "Metadata": {
-              "Common.PropertyName": "Title"
-            }
-          }
-        ],
-        "Metadata": {
-          "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "NikhilBhingradiyaGroceryApp.Shared.SurveyPrompt",
-          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
-        }
-      },
-      {
         "HashCode": 2125453772,
         "Kind": "Components.Component",
         "Name": "NikhilBhingradiyaGroceryApp.Shared.MainLayout",
@@ -326,6 +273,59 @@
         }
       },
       {
+        "HashCode": 1914098019,
+        "Kind": "Components.Component",
+        "Name": "NikhilBhingradiyaGroceryApp.Shared.SurveyPrompt",
+        "AssemblyName": "NikhilBhingradiyaGroceryApp",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "SurveyPrompt"
+          }
+        ],
+        "BoundAttributes": [
+          {
+            "Kind": "Components.Component",
+            "Name": "Title",
+            "TypeName": "System.String",
+            "Metadata": {
+              "Common.PropertyName": "Title"
+            }
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "NikhilBhingradiyaGroceryApp.Shared.SurveyPrompt"
+        }
+      },
+      {
+        "HashCode": 2074389173,
+        "Kind": "Components.Component",
+        "Name": "NikhilBhingradiyaGroceryApp.Shared.SurveyPrompt",
+        "AssemblyName": "NikhilBhingradiyaGroceryApp",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "NikhilBhingradiyaGroceryApp.Shared.SurveyPrompt"
+          }
+        ],
+        "BoundAttributes": [
+          {
+            "Kind": "Components.Component",
+            "Name": "Title",
+            "TypeName": "System.String",
+            "Metadata": {
+              "Common.PropertyName": "Title"
+            }
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "NikhilBhingradiyaGroceryApp.Shared.SurveyPrompt",
+          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
+        }
+      },
+      {
         "HashCode": -140655219,
         "Kind": "Components.Component",
         "Name": "NikhilBhingradiyaGroceryApp.Shared.NavMenu",
@@ -355,6 +355,39 @@
         "Metadata": {
           "Runtime.Name": "Components.IComponent",
           "Common.TypeName": "NikhilBhingradiyaGroceryApp.Shared.NavMenu",
+          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
+        }
+      },
+      {
+        "HashCode": -1577548958,
+        "Kind": "Components.Component",
+        "Name": "NikhilBhingradiyaGroceryApp.App",
+        "AssemblyName": "NikhilBhingradiyaGroceryApp",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "App"
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "NikhilBhingradiyaGroceryApp.App"
+        }
+      },
+      {
+        "HashCode": 360900679,
+        "Kind": "Components.Component",
+        "Name": "NikhilBhingradiyaGroceryApp.App",
+        "AssemblyName": "NikhilBhingradiyaGroceryApp",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "NikhilBhingradiyaGroceryApp.App"
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "NikhilBhingradiyaGroceryApp.App",
           "Components.NameMatch": "Components.FullyQualifiedNameMatch"
         }
       },
@@ -15966,64 +15999,64 @@
   "RootNamespace": "NikhilBhingradiyaGroceryApp",
   "Documents": [
     {
-      "FilePath": "d:\\sem 2\\Asp.net\\Nikhil_Bhingradiya_WEB315Assignment\\NikhilBhingradiyaGroceryApp\\Pages\\Pagetitle.razor",
-      "TargetPath": "Pages\\Pagetitle.razor",
-      "FileKind": "component"
-    },
-    {
-      "FilePath": "d:\\sem 2\\Asp.net\\Nikhil_Bhingradiya_WEB315Assignment\\NikhilBhingradiyaGroceryApp\\Pages\\Error.cshtml",
-      "TargetPath": "Pages\\Error.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "d:\\sem 2\\Asp.net\\Nikhil_Bhingradiya_WEB315Assignment\\NikhilBhingradiyaGroceryApp\\_Imports.razor",
+      "FilePath": "d:\\sem 2\\Asp.net\\Nikhil_Bhingradiya_WEB315Assignments\\NikhilBhingradiyaGroceryApp\\_Imports.razor",
       "TargetPath": "_Imports.razor",
       "FileKind": "componentImport"
     },
     {
-      "FilePath": "d:\\sem 2\\Asp.net\\Nikhil_Bhingradiya_WEB315Assignment\\NikhilBhingradiyaGroceryApp\\App.razor",
-      "TargetPath": "App.razor",
+      "FilePath": "d:\\sem 2\\Asp.net\\Nikhil_Bhingradiya_WEB315Assignments\\NikhilBhingradiyaGroceryApp\\Pages\\Pagetitle.razor",
+      "TargetPath": "Pages\\Pagetitle.razor",
       "FileKind": "component"
     },
     {
-      "FilePath": "d:\\sem 2\\Asp.net\\Nikhil_Bhingradiya_WEB315Assignment\\NikhilBhingradiyaGroceryApp\\Shared\\SurveyPrompt.razor",
-      "TargetPath": "Shared\\SurveyPrompt.razor",
-      "FileKind": "component"
+      "FilePath": "d:\\sem 2\\Asp.net\\Nikhil_Bhingradiya_WEB315Assignments\\NikhilBhingradiyaGroceryApp\\Pages\\Error.cshtml",
+      "TargetPath": "Pages\\Error.cshtml",
+      "FileKind": "mvc"
     },
     {
-      "FilePath": "d:\\sem 2\\Asp.net\\Nikhil_Bhingradiya_WEB315Assignment\\NikhilBhingradiyaGroceryApp\\Shared\\NavMenu.razor",
-      "TargetPath": "Shared\\NavMenu.razor",
-      "FileKind": "component"
+      "FilePath": "d:\\sem 2\\Asp.net\\Nikhil_Bhingradiya_WEB315Assignments\\NikhilBhingradiyaGroceryApp\\Pages\\_Host.cshtml",
+      "TargetPath": "Pages\\_Host.cshtml",
+      "FileKind": "mvc"
     },
     {
-      "FilePath": "d:\\sem 2\\Asp.net\\Nikhil_Bhingradiya_WEB315Assignment\\NikhilBhingradiyaGroceryApp\\Pages\\GroceryStore.razor",
-      "TargetPath": "Pages\\GroceryStore.razor",
-      "FileKind": "component"
-    },
-    {
-      "FilePath": "d:\\sem 2\\Asp.net\\Nikhil_Bhingradiya_WEB315Assignment\\NikhilBhingradiyaGroceryApp\\Pages\\Index.razor",
-      "TargetPath": "Pages\\Index.razor",
-      "FileKind": "component"
-    },
-    {
-      "FilePath": "d:\\sem 2\\Asp.net\\Nikhil_Bhingradiya_WEB315Assignment\\NikhilBhingradiyaGroceryApp\\Pages\\FetchData.razor",
-      "TargetPath": "Pages\\FetchData.razor",
-      "FileKind": "component"
-    },
-    {
-      "FilePath": "d:\\sem 2\\Asp.net\\Nikhil_Bhingradiya_WEB315Assignment\\NikhilBhingradiyaGroceryApp\\Pages\\Counter.razor",
-      "TargetPath": "Pages\\Counter.razor",
-      "FileKind": "component"
-    },
-    {
-      "FilePath": "d:\\sem 2\\Asp.net\\Nikhil_Bhingradiya_WEB315Assignment\\NikhilBhingradiyaGroceryApp\\Shared\\MainLayout.razor",
+      "FilePath": "d:\\sem 2\\Asp.net\\Nikhil_Bhingradiya_WEB315Assignments\\NikhilBhingradiyaGroceryApp\\Shared\\MainLayout.razor",
       "TargetPath": "Shared\\MainLayout.razor",
       "FileKind": "component"
     },
     {
-      "FilePath": "d:\\sem 2\\Asp.net\\Nikhil_Bhingradiya_WEB315Assignment\\NikhilBhingradiyaGroceryApp\\Pages\\_Host.cshtml",
-      "TargetPath": "Pages\\_Host.cshtml",
-      "FileKind": "mvc"
+      "FilePath": "d:\\sem 2\\Asp.net\\Nikhil_Bhingradiya_WEB315Assignments\\NikhilBhingradiyaGroceryApp\\Pages\\GroceryStore.razor",
+      "TargetPath": "Pages\\GroceryStore.razor",
+      "FileKind": "component"
+    },
+    {
+      "FilePath": "d:\\sem 2\\Asp.net\\Nikhil_Bhingradiya_WEB315Assignments\\NikhilBhingradiyaGroceryApp\\Pages\\Counter.razor",
+      "TargetPath": "Pages\\Counter.razor",
+      "FileKind": "component"
+    },
+    {
+      "FilePath": "d:\\sem 2\\Asp.net\\Nikhil_Bhingradiya_WEB315Assignments\\NikhilBhingradiyaGroceryApp\\Pages\\FetchData.razor",
+      "TargetPath": "Pages\\FetchData.razor",
+      "FileKind": "component"
+    },
+    {
+      "FilePath": "d:\\sem 2\\Asp.net\\Nikhil_Bhingradiya_WEB315Assignments\\NikhilBhingradiyaGroceryApp\\Pages\\Index.razor",
+      "TargetPath": "Pages\\Index.razor",
+      "FileKind": "component"
+    },
+    {
+      "FilePath": "d:\\sem 2\\Asp.net\\Nikhil_Bhingradiya_WEB315Assignments\\NikhilBhingradiyaGroceryApp\\Shared\\SurveyPrompt.razor",
+      "TargetPath": "Shared\\SurveyPrompt.razor",
+      "FileKind": "component"
+    },
+    {
+      "FilePath": "d:\\sem 2\\Asp.net\\Nikhil_Bhingradiya_WEB315Assignments\\NikhilBhingradiyaGroceryApp\\App.razor",
+      "TargetPath": "App.razor",
+      "FileKind": "component"
+    },
+    {
+      "FilePath": "d:\\sem 2\\Asp.net\\Nikhil_Bhingradiya_WEB315Assignments\\NikhilBhingradiyaGroceryApp\\Shared\\NavMenu.razor",
+      "TargetPath": "Shared\\NavMenu.razor",
+      "FileKind": "component"
     }
   ],
   "SerializationFormat": "0.2"

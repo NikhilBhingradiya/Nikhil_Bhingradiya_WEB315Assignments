@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\sem 2\\Asp.net\\Nikhil_Bhingradiya_WEB315Assignment\\NikhilBhingradiyaGroceryApp\\NikhilBhingradiyaGroceryApp.csproj": {}
+    "D:\\sem 2\\Asp.net\\Nikhil_Bhingradiya_WEB315Assignments\\NikhilBhingradiyaGroceryApp\\NikhilBhingradiyaGroceryApp.csproj": {}
   },
   "projects": {
-    "D:\\sem 2\\Asp.net\\Nikhil_Bhingradiya_WEB315Assignment\\NikhilBhingradiyaGroceryApp\\NikhilBhingradiyaGroceryApp.csproj": {
+    "D:\\sem 2\\Asp.net\\Nikhil_Bhingradiya_WEB315Assignments\\NikhilBhingradiyaGroceryApp\\NikhilBhingradiyaGroceryApp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\sem 2\\Asp.net\\Nikhil_Bhingradiya_WEB315Assignment\\NikhilBhingradiyaGroceryApp\\NikhilBhingradiyaGroceryApp.csproj",
+        "projectUniqueName": "D:\\sem 2\\Asp.net\\Nikhil_Bhingradiya_WEB315Assignments\\NikhilBhingradiyaGroceryApp\\NikhilBhingradiyaGroceryApp.csproj",
         "projectName": "NikhilBhingradiyaGroceryApp",
-        "projectPath": "D:\\sem 2\\Asp.net\\Nikhil_Bhingradiya_WEB315Assignment\\NikhilBhingradiyaGroceryApp\\NikhilBhingradiyaGroceryApp.csproj",
+        "projectPath": "D:\\sem 2\\Asp.net\\Nikhil_Bhingradiya_WEB315Assignments\\NikhilBhingradiyaGroceryApp\\NikhilBhingradiyaGroceryApp.csproj",
         "packagesPath": "C:\\Users\\Dell\\.nuget\\packages\\",
-        "outputPath": "D:\\sem 2\\Asp.net\\Nikhil_Bhingradiya_WEB315Assignment\\NikhilBhingradiyaGroceryApp\\obj\\",
+        "outputPath": "D:\\sem 2\\Asp.net\\Nikhil_Bhingradiya_WEB315Assignments\\NikhilBhingradiyaGroceryApp\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Dell\\AppData\\Roaming\\NuGet\\NuGet.Config"
