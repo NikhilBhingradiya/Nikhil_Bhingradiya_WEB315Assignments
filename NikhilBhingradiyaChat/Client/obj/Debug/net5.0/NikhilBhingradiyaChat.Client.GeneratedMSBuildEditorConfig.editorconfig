@@ -1,0 +1,10 @@
+is_global = true
+build_property.TargetFramework = net5.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = 
+build_property.ProjectTypeGuids = 
+build_property.PublishSingleFile = 
+build_property.IncludeAllContentForSelfExtract = 
+build_property._SupportedPlatformList = browser
+build_property.RootNamespace = NikhilBhingradiyaChat.Client
+build_property.ProjectDir = d:\sem 2\Asp.net\Nikhil_Bhingradiya_WEB315Assignment\Nikhil_Bhingradiya_WEB315Assignments\NikhilBhingradiyaChat\Client\
