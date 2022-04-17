@@ -1,0 +1,10 @@
+ul {
+    display: block;
+    width: 300px;
+    margin: 0 auto;
+    color: black;
+    font-weight: bold;
+    background: #e6095e; 
+    border: 2px solid black;
+    padding: 1em;
+}

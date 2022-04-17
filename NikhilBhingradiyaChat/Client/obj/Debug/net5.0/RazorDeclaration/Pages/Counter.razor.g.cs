@@ -91,7 +91,7 @@ using NikhilBhingradiyaChat.Client.Shared;
         }
         #pragma warning restore 1998
 #nullable restore
-#line 9 "d:\sem 2\Asp.net\Nikhil_Bhingradiya_WEB315Assignment\Nikhil_Bhingradiya_WEB315Assignments\NikhilBhingradiyaChat\Client\Pages\Counter.razor"
+#line 13 "d:\sem 2\Asp.net\Nikhil_Bhingradiya_WEB315Assignment\Nikhil_Bhingradiya_WEB315Assignments\NikhilBhingradiyaChat\Client\Pages\Counter.razor"
        
     private int currentCount = 0;
 
